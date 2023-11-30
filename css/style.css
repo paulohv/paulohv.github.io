@@ -165,7 +165,7 @@ a:focus {
     margin-top: 0;
     border: 0;
     border-radius: 0;
-    background: #f8f9fa;
+    background: #202023;
 }
 
 @media (min-width: 992px) {
@@ -180,7 +180,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #ffffff !important;
+        background: #202023 !important;
     }
     
     .navbar .navbar-brand {
@@ -188,7 +188,7 @@ a:focus {
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #EF233C;
+        color: #202023;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -198,6 +198,7 @@ a:focus {
         font-size: 15px;
         font-weight: 500;
     }
+    
     
     .navbar-light.nav-sticky .navbar-nav .nav-link,
     .navbar-light.nav-sticky .navbar-nav .nav-link:focus {
